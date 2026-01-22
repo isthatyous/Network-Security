@@ -33,6 +33,5 @@ setup(
 
 if __name__ == "__main__":
     packages_lst=get_requirements()
-    print(f"Printing packages: {packages_lst}")
-    print(f"packages Types: {type(packages_lst)}")
+ 
 

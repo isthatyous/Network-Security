@@ -3,4 +3,4 @@ pandas
 python-dotenv
 pymongo
 certifi
--e .
+# -e .
